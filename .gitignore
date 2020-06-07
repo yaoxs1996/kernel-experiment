@@ -1,0 +1,6 @@
+*.cmd
+*.ko
+**/.tmp_versions/
+**/.vscode/
+**/test
+
